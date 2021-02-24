@@ -15,7 +15,7 @@
       "description": "Admin secret used to generate admin access token",
       "generator": "secret"
     },
-    "CENTRIFUGO_SECRET": {
+    "CENTRIFUGO_TOKEN_HMAC_SECRET_KEY": {
       "description": "Centrifugo secret to generate JWT",
       "generator": "secret"
     },
